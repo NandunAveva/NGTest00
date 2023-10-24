@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ACME_Reports", "ACME_Reports\ACME_Reports.rptproj", "{87455093-AF13-4E8B-B808-240DFDA7B328}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Production|Default = Production|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87455093-AF13-4E8B-B808-240DFDA7B328}.Debug|Default.ActiveCfg = Debug
+		{87455093-AF13-4E8B-B808-240DFDA7B328}.Debug|Default.Build.0 = Debug
+		{87455093-AF13-4E8B-B808-240DFDA7B328}.Debug|Default.Deploy.0 = Debug
+		{87455093-AF13-4E8B-B808-240DFDA7B328}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{87455093-AF13-4E8B-B808-240DFDA7B328}.DebugLocal|Default.Build.0 = DebugLocal
+		{87455093-AF13-4E8B-B808-240DFDA7B328}.Production|Default.ActiveCfg = 
+		{87455093-AF13-4E8B-B808-240DFDA7B328}.Production|Default.Build.0 = 
+		{87455093-AF13-4E8B-B808-240DFDA7B328}.Production|Default.Deploy.0 = 
+		{87455093-AF13-4E8B-B808-240DFDA7B328}.Release|Default.ActiveCfg = Release
+		{87455093-AF13-4E8B-B808-240DFDA7B328}.Release|Default.Build.0 = Release
+		{87455093-AF13-4E8B-B808-240DFDA7B328}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A3C96A8-30DD-4145-A9C1-0B9AC4A002A5}
+	EndGlobalSection
+EndGlobal
